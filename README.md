@@ -44,4 +44,5 @@ I added a click event to the save button that locally stores saved events
 I created a start new day button that allows the user to clear all events and start a fresh new work-scheduler
 
 ***
-
+URL of Deployment: https://bakerwes.github.io/Work-Scheduler/
+![2023-02-27](https://user-images.githubusercontent.com/122948418/221752690-6894156b-7f6f-48c0-b8d6-c132fe265a73.png)
