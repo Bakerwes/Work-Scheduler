@@ -4,7 +4,7 @@ Challenge-5
 
 ***
 
-The challenege for this week was to take some starter code and create a functional schedule for a normal 9 to 5 work day. The acceptance criteria goes as follows:
+The challenge for this week was to take some starter code and create a functional schedule for a normal 9 to 5 work day. The acceptance criteria goes as follows:
 GIVEN I am using a daily planner to create a schedule
 
 WHEN I open the planner
